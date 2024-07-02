@@ -1,6 +1,6 @@
 {
-  "name": "base",
-  "author": "Brandon",
+  "name": "pt",
+  "author": "Daedric",
   "translation": {
     "settings": {
       "pin-required": "Pin Requerido",
