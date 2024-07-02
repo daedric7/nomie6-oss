@@ -1,4 +1,5 @@
-{
+export default {
+  {
   "name": "pt",
   "author": "Daedric",
   "translation": {
@@ -540,7 +541,7 @@
       "duration-moment": "Um momento",
       "duration-few-moments": "Alguns momentos",
       "duration-second": "1 segundo",
-      "duration-seconds": "{0} segundos"
-    }
-  }
-}
+      "duration-seconds": "{0} segundos",
+    },
+  },
+};
