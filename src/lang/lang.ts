@@ -24,4 +24,8 @@ export default {
     label: "Tester",
     lang: Test,
   },
+  pt: {
+    label: "Portugues",
+    lang: pt,
+  },
 };
