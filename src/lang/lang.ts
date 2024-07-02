@@ -3,6 +3,7 @@ import SimplifiedChinese from "./zh-cn";
 import Test from "./test";
 import base from "./base";
 import de from "./de";
+import pt from "./pt";
 export default {
   en: {
     label: "English",
